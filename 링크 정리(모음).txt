@@ -1,0 +1,26 @@
+
+ 링크 정리
+
+- Http에 대한 이해 이론
+https://codingdojang.com/scode/643?langby=python
+
+- 배경 자료등 짧은동영상
+https://pixabay.com/ko/videos/
+
+- Forward, Redirect 차이 이론자료
+https://mangkyu.tistory.com/51
+
+- 템플릿 공유 PPT
+http://pptbizcam.co.kr/?cat=2&paged=2
+
+- HTML 템플릿 공유
+https://www.wrapuppro.com/programing/view/mfusdXogHDFXKOp
+
+- 레이아웃 짤 때 유용한 사이트
+https://ovenapp.io/
+
+- 변수명 짓기, 컬럼명 짓기
+https://www.curioustore.com/#!/
+
+- AWT, Swint, SWT
+https://wedul.site/59
